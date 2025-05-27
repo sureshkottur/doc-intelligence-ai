@@ -1,0 +1,13 @@
+# Dependencies
+langchain>=0.1.0
+streamlit>=1.30.0
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+openai>=1.0.0
+PyPDF2>=3.0.1
+python-docx>=1.1.0
+docx2txt>=0.8
+tqdm>=4.66.1
+pydantic>=2.5.2
+numpy>=1.26.4
+#pip install -r requirements.txt
