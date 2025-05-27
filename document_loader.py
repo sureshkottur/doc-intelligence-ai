@@ -1,4 +1,4 @@
-# document_loader.py  - Load documents and generate chunks
+# Load documents and generate chunks
 from langchain.document_loaders import PyPDFLoader, Docx2txtLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
