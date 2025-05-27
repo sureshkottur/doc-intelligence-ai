@@ -1,3 +1,4 @@
+# Streamlit chat app
 import streamlit as st
 from document_loader import load_and_split_documents
 from embedding_generator import get_embedding_model
